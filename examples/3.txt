@@ -1,0 +1,6 @@
+print B
+A add B
+B add 2
+print B
+B add A
+print B

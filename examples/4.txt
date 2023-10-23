@@ -1,0 +1,5 @@
+foo bar
+12 add 2
+b power a
+e add 2.718
+quit
